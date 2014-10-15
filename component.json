@@ -21,7 +21,8 @@
     ],
     "dependencies": {
         "lodash/lodash": "*",
-        "postal/postal.js": "~0.10.3"
+        "postal/postal.js": "~0.10.3",
+        "ryanfields/ConduitJS": "fix-component-json"
     },
     "scripts": ["lib/postal.preserve.min.js", "lib/postal.preserve.js"],
     "license": "MIT"
